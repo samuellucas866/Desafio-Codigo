@@ -1,0 +1,14 @@
+E:\Programa-Estagio\Problema_Soma\Problema_Soma\bin\Debug\net8.0\Problema_Soma.exe
+E:\Programa-Estagio\Problema_Soma\Problema_Soma\bin\Debug\net8.0\Problema_Soma.deps.json
+E:\Programa-Estagio\Problema_Soma\Problema_Soma\bin\Debug\net8.0\Problema_Soma.runtimeconfig.json
+E:\Programa-Estagio\Problema_Soma\Problema_Soma\bin\Debug\net8.0\Problema_Soma.dll
+E:\Programa-Estagio\Problema_Soma\Problema_Soma\bin\Debug\net8.0\Problema_Soma.pdb
+E:\Programa-Estagio\Problema_Soma\Problema_Soma\obj\Debug\net8.0\Problema_Soma.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programa-Estagio\Problema_Soma\Problema_Soma\obj\Debug\net8.0\Problema_Soma.AssemblyInfoInputs.cache
+E:\Programa-Estagio\Problema_Soma\Problema_Soma\obj\Debug\net8.0\Problema_Soma.AssemblyInfo.cs
+E:\Programa-Estagio\Problema_Soma\Problema_Soma\obj\Debug\net8.0\Problema_Soma.csproj.CoreCompileInputs.cache
+E:\Programa-Estagio\Problema_Soma\Problema_Soma\obj\Debug\net8.0\Problema_Soma.dll
+E:\Programa-Estagio\Problema_Soma\Problema_Soma\obj\Debug\net8.0\refint\Problema_Soma.dll
+E:\Programa-Estagio\Problema_Soma\Problema_Soma\obj\Debug\net8.0\Problema_Soma.pdb
+E:\Programa-Estagio\Problema_Soma\Problema_Soma\obj\Debug\net8.0\Problema_Soma.genruntimeconfig.cache
+E:\Programa-Estagio\Problema_Soma\Problema_Soma\obj\Debug\net8.0\ref\Problema_Soma.dll
